@@ -89,4 +89,4 @@ client.on("message", async (message) => {
 
 })
 
-client.login(config["test-token"]);
+client.login(config["bot-token"]);
