@@ -1,4 +1,4 @@
-**CAUTION: This code is no longer effective, it has been written in *discord.js v12*. This version if no longer supported.**
+**CAUTION: This code is no longer effective, it has been written in *discord.js v12*. This version is no longer supported.**
 
 
 
