@@ -2,7 +2,7 @@
 
 
 
-To run this bot you first need a view node modules. 
+To run this bot, you first need a view node modules. 
 
 Requirements:
 
@@ -18,10 +18,10 @@ Requirements:
 
 * ms
 
-Before you can run the bot first edit the *bot-token* in the `config.json` file. Here you put in the token of your bot which is listed [here](https://discord.com/developers) in `Applications > [Bot Name] > Bot > (Add Bot > Yes, do it!) > Reset Token` You can also edit the bot prefix as you want. 
+Before you can run the bot, first edit the *bot-token* in the `config.json` file. Here you put in the token of your bot which is listed [here](https://discord.com/developers) in `Applications > [Bot Name] > Bot > (Add Bot > Yes, do it!) > Reset Token` You can also edit the bot prefix as you want. 
 
 
 
-To run the bot simply open a terminal, go to the folder and run `node client.js`
+To run the bot, simply open a terminal, go to the folder and run `node client.js`
 
 
