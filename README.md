@@ -1,4 +1,4 @@
-**CAUTION: This code is no longer effective, it has been written in *discord.js v12*. This version is no longer supported.**
+**CAUTION: This code is no longer effective, it has been written in *discord.js v12* and is no longer supported.**
 
 To run this bot, you first need a view node modules. 
 
