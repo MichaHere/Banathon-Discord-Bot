@@ -1,6 +1,6 @@
 ![*banner image*](https://github.com/MichaHere/Banathon-Discord-Bot/blob/main/banner.png)
 
-**CAUTION: This code is deprecated, it has been written in *discord.js v12* and is no longer supported.**
+❗️**CAUTION: This code is deprecated, it has been written in *discord.js v12* and is no longer supported.**❗️
 
 To run the bot, you first need a view node modules. 
 
