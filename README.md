@@ -1,3 +1,5 @@
+![*The bot's profile picture*](https://github.com/MichaHere/Banathon-Discord-Bot/blob/main/pfp.png?raw=true)
+
 **CAUTION: This code is deprecated, it has been written in *discord.js v12* and is no longer supported.**
 
 To run this bot, you first need a view node modules. 
