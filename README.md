@@ -1,6 +1,7 @@
 ![*banner image*](https://github.com/MichaHere/Banathon-Discord-Bot/blob/main/banner.png)
 
 ⚠️ **This repository has been archived, no further updates will be made.** ⚠️
+
 Due to an update in the “discord.js” library, which this code depends on, the repository would need a complete rewrite. This means that this code is deprecated, and therefore it has been decided to archive this project. Thank you for your understanding.
 
 ❗️ **Beware this code is deprecated, it has been written in *discord.js v12* and is no longer supported.** ❗️
